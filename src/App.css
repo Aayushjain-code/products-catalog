@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,body{
+  width: 100%;
+  height: 100%;
+}
+
+.productCardWrapper{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #eee;
+}
